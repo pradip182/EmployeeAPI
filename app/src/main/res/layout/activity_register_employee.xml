@@ -30,7 +30,7 @@
         android:hint="Enter Age"
         android:layout_margin="20dp"
         android:textSize="30dp"
-        android:id="@+id/etAge"/>
+        android:id="@+id/etEmpAge"/>
 
     <Button
         android:layout_width="match_parent"
